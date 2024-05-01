@@ -3,11 +3,11 @@
 ![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/30577df0-f6e9-4e34-850c-fe4b6443fb0a)
 
 # C1: Import project
-B1: Clone Project: git clone https://github.com/LeDonChung/SetupProjectSocket.git và chọn workspace là SetupProjectSocket
-B2: Update và chạy Project Server
-B3: Import một vài dữ liệu trong MariaDB hoặc MSSQL
-B4: Update và chạy Project Client - Nếu lỗi thì export Server
-B5: Sau khi chạy thành công thì có thể đổi tên project lại và xóa các file không cần thiết để code lại như: entities, dao,...
+- B1: Clone Project: git clone https://github.com/LeDonChung/SetupProjectSocket.git và chọn workspace là SetupProjectSocket
+- B2: Update và chạy Project Server
+- B3: Import một vài dữ liệu trong MariaDB hoặc MSSQL
+- B4: Update và chạy Project Client - Nếu lỗi thì export Server
+- B5: Sau khi chạy thành công thì có thể đổi tên project lại và xóa các file không cần thiết để code lại như: entities, dao,...
 # C2: SetupProjectSocket từ đẩu
 # B1: Chuẩn bị CSDL(MSSQL): Xóa TLSv1. Nếu MariaDB thì không cần
  ![image](https://github.com/LeDonChung/SetupProjectRMI/assets/105205800/b6c63379-1485-443e-a7d0-a931cd7612e7)
